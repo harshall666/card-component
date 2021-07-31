@@ -30,7 +30,7 @@ body {
 
 /**image**/
 .pic{
-  background: url(https://harshall666.github.io/images/image-header-mobile.jpg) no-repeat center/cover;
+  background: url("https://harshall666.github.io/images/image-header-mobile.jpg") no-repeat center/cover;
   height: 216px;
   width:auto;
   border-radius: 10px 10px 0 0;
@@ -103,7 +103,7 @@ body {
     display: none;
   }
   .pic1{
-    background: url(https://harshall666.github.io/images/image-header-desktop.jpg) no-repeat;
+    background: url("https://harshall666.github.io/images/image-header-desktop.jpg") no-repeat;
     background-size: cover;
     border-radius: 0 10px 10px 0;
     flex: 50%;
