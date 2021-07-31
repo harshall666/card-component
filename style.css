@@ -30,7 +30,7 @@ body {
 
 /**image**/
 .pic{
-  background: url("https://github.com/harshall666/card-component/blob/main/images/image-header-mobile.jpg") no-repeat center/cover;
+  background: url(images/image-header-mobile.jpg) no-repeat center/cover;
   height: 216px;
   width:auto;
   border-radius: 10px 10px 0 0;
@@ -103,7 +103,7 @@ body {
     display: none;
   }
   .pic1{
-    background: url("https://github.com/harshall666/card-component/blob/main/images/image-header-desktop.jpg") no-repeat;
+    background: url(images/image-header-desktop.jpg) no-repeat;
     background-size: cover;
     border-radius: 0 10px 10px 0;
     flex: 50%;
